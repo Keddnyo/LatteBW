@@ -6,7 +6,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="Windows">
         <activity
-            android:name=".Exec"
+            android:name=".E"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

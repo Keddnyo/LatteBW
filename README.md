@@ -4,7 +4,7 @@
  [Смотреть README на русском языке](https://github.com/Keddnyo/LatteBW/blob/main/README.ru-RU.md)
  
 ## Features:
-* Small app size
+* Tiny app size
 * Quick reboot
 * Root required
 

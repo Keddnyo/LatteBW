@@ -1,5 +1,7 @@
 # LatteBW
  Quick boot to Windows on MiPad 2
+
+ [Смотреть README на русском языке](https://github.com/Keddnyo/LatteBW/blob/main/README.ru-RU.md)
  
 ## Features:
 * Small app size
@@ -10,7 +12,7 @@
 * Open terminal on your tablet
 * Type these commands:
   * `su -c mount -o remount,rw /`
-  * `su -c mkdir /mnt/EFI`
+  * `su -c mkdir /mnt/EFI/`
   * `su -c mount -t vfat /dev/block/by-name/*loader /mnt/EFI`
 * Download files from [Google Drive](https://drive.google.com/folderview?id=1XnILUU79kNeCrRPrIFhPgjMbYFc8V8oW)
 * Place boot files to `/mnt/EFI/EFI/BOOT/`
